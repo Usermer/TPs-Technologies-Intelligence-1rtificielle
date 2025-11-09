@@ -1,2 +1,27 @@
-# TPs-Technologies-Intelligence-1rtificielle
-# 📚 TP Intelligences Artificielles  Repository regroupant plusieurs travaux pratiques sur les différentes technologies d'Intelligence Artificielle.
+
+# 🧠 TP - Technologies d'Intelligence Artificielle
+
+Bienvenue dans le dépôt des TP (Travaux Pratiques) sur les technologies d'intelligence artificielle !  
+Ce repo contient des exercices, exemples et projets autour de l'IA, du Deep Learning et de la Computer Vision, organisés pour être faciles à parcourir et à utiliser. ✨
+
+---
+
+## 📚 Description
+Ce dépôt rassemble les Travaux Pratiques (TP) réalisés pour découvrir et approfondir les concepts suivants :
+- Intelligence Artificielle (IA) — notions générales et exemples pratiques 🤖
+- Deep Learning — modèles, entraînement et notebooks 🧩
+- Computer Vision — projets et démonstrations en vision par ordinateur 🖼️
+
+
+
+## 📁 Structure du dépôt
+- `deep-learning/` — TP et notebooks pour le Deep Learning (TensorFlow / PyTorch, entraînement, modèles)  
+  → Lien : [Deep Learning](./deep-learning) 🚀
+- `computer-vision/` — TP et projets pour la Computer Vision (détection, segmentation, classification)  
+  → Lien : [Computer Vision](./computer-vision) 🔍
+
+ion ou suggestion, ouvrez une issue ou contactez le mainteneur du dépôt. 🙋‍♂️
+
+---
+
+Bon travail et bonne exploration de l'IA ! 🚀🤖🧠
