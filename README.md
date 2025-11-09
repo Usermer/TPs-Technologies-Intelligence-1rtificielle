@@ -16,7 +16,7 @@ Ce dépôt rassemble les Travaux Pratiques (TP) réalisés pour découvrir et ap
 
 ## 📁 Structure du dépôt
 - `deep-learning/` — TP et notebooks pour le Deep Learning (TensorFlow / PyTorch, entraînement, modèles)  
-  → Lien : [Deep Learning](./deep-learning) 🚀
+  → Lien : [Deep Learning](https://github.com/Usermer/TPs-Technologies-Intelligence-1rtificielle/blob/main/TP2__deep_learning.ipynb) 🚀
 - `computer-vision/` — TP et projets pour la Computer Vision (détection, segmentation, classification)  
   → Lien : [Computer Vision](./computer-vision) 🔍
 
